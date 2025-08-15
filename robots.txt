@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hipyralith.com/sitemap.xml
